@@ -1,0 +1,6 @@
+{
+  "name": "Điện Lạnh Quang Cảnh - Vệ Sinh & Sửa Máy Giặt Tại Nhà Hà Nội",
+  "description": "Điện Lạnh Quang Cảnh nhận vệ sinh & sửa máy giặt tại nhà Hà Nội. Máy giặt có mùi, giặt không sạch, không vắt, không xả, báo lỗi? Gọi 096 577 5972 hoặc Zalo 032 990 1465. Có hỗ trợ điều hòa và bình nóng lạnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
